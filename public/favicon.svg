@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#3550A3" />
+  
+  <!-- Insulation Design - Horizontal Lines -->
+  <rect x="10" y="15" width="44" height="3" rx="1.5" fill="#F9EFC7" opacity="0.7" />
+  <rect x="10" y="22" width="44" height="3" rx="1.5" fill="#F9EFC7" opacity="0.7" />
+  <rect x="10" y="29" width="44" height="3" rx="1.5" fill="#F9EFC7" opacity="0.7" />
+  <rect x="10" y="36" width="44" height="3" rx="1.5" fill="#F9EFC7" opacity="0.7" />
+  <rect x="10" y="43" width="44" height="3" rx="1.5" fill="#F9EFC7" opacity="0.7" />
+  
+  <!-- Factory Symbol -->
+  <path d="M32 10 L42 18 L42 48 L22 48 L22 18 Z" fill="#3550A3" stroke="#F9EFC7" stroke-width="2" />
+  <rect x="28" y="38" width="8" height="10" fill="#F9EFC7" />
+  <rect x="25" y="23" width="5" height="5" fill="#F9EFC7" />
+  <rect x="34" y="23" width="5" height="5" fill="#F9EFC7" />
+  <rect x="25" y="31" width="5" height="5" fill="#F9EFC7" />
+  <rect x="34" y="31" width="5" height="5" fill="#F9EFC7" />
+  <path d="M36 10 L38 10 L38 15 L36 15 Z" fill="#F9EFC7" />
+</svg>
